@@ -1,0 +1,23 @@
+Class: Name: Employee
+			 Super Class: Person
+			 Interfaces: Serializable, Cloneable
+			 Variables: 
+				1. Name : eid
+				   Data Type: String
+				   Access Modifier : public
+				
+				2. Name: ename;
+				   Data Type: String;
+				   Access Mode: public
+				   
+				   ---
+			
+			Methods: 
+				1. Name: add
+				   Access Modifier: public
+				   Return type: void
+				   parameters: eid,ename,esal, eaddr
+			
+			Constructors: 
+				1. Employee
+				-------
